@@ -4,6 +4,8 @@
   
 <p align="center">🇰🇷 🇯🇵 🇺🇸</p>
 
+<br>
+
 <h3 align="center">👨‍💻  &nbsp Platform & Languages &nbsp 🧑‍🔧</h3>
   
 <p align="center">

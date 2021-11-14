@@ -36,9 +36,8 @@
 
 <div align="center" style="text-align:center">
 
-  [![Velog's GitHub stats](https://celebmine.com)](https://celebmine.com)
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=woo0_hooo)](https://velog.io/@woo0_hooo)
-
+  https://Celebmine.com
+  
 </div>
   
 <br>

@@ -1,14 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=kbsssss&fontSize=70&animation=twinkling)
-
 <br>
   
 <p align="center">🇰🇷 🇯🇵 🇺🇸</p>
-
 <br>
 
 <h3 align="center">👨‍💻  &nbsp Platform & Languages &nbsp 🧑‍🔧</h3>
-  
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -21,18 +18,15 @@
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp    
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <br>
-  <br>
-  Tools
+</p>
 
+<h3 align="center">👨‍💻  &nbsp Platform & Languages &nbsp 🧑‍🔧</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp   
-
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp  
-
   <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
-
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 

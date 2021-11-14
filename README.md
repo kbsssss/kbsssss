@@ -49,6 +49,6 @@
   <a href="rlaqudtn385@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=rlaqudtn385@gmail.com"/></a>
 </p>
 <br>
-<p align="center">
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkbsssss%2Fhit-counter&count_bg=%23C7C7C7&title_bg=%235262DD&icon=&icon_color=%235061B4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
-</p>
+

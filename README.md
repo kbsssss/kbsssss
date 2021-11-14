@@ -1,5 +1,7 @@
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=kbsssss&fontSize=70&animation=twinkling)
-
+</p>
+  
 <p align="center">kr en jp</p>
 
 <h3 align="center">👨‍💻 Platform & Languages 🧑‍🔧</h3>

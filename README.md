@@ -52,5 +52,5 @@
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkbsssss&count_bg=%23C7C7C7&title_bg=%235262DD&icon=github.svg&icon_color=%235061B4&title=hits&edge_flat=true"/></a>
 </p>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkbsssss%2Fhit-counter&count_bg=%23C7C7C7&title_bg=%235262DD&icon=&icon_color=%235061B4&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
 

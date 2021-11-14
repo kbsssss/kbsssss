@@ -2,7 +2,7 @@
 
 <p align="center">kr en jp</p>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">👨‍💻 Platform & Languages 🧑‍🔧</h3>
 
 <p align="center"> Techs that I've used </p>
   
@@ -21,7 +21,7 @@
 </p>
 
 <br>
-<h3 align="center">🪄 kbsssss Blog 🪄</h3>
+<h3 align="center">🪄 kbsssss's </h3>
 
 <div align="center" style="text-align:center">
 

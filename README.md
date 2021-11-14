@@ -2,11 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=kbsssss&fontSize=70&animation=twinkling)
 
   
-<p align="center">kr en jp</p>
+<p align="center">🇰🇷 🇯🇵 🇺🇸</p>
 
 <h3 align="center">👨‍💻 Platform & Languages 🧑‍🔧</h3>
-
-<p align="center"> Techs that I've used </p>
   
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 

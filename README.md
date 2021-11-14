@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=110&section=header&text=kbsssss&fontSize=45&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=110&section=header&text=kbsssss&fontSize=55&animation=twinkling)
 <br>
   
 <p align="center">🇰🇷 🇯🇵 🇺🇸</p>

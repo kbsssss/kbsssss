@@ -36,7 +36,7 @@
 
 <div align="center" style="text-align:center">
 
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kbsssss&tag=celebmine.com&color=dark)](https://velog.io/@kbsssss)
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kbsssss&tag=celebmine.com)](https://velog.io/@kbsssss)
   
 </div>
   

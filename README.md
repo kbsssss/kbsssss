@@ -36,7 +36,7 @@
 
 <div align="center" style="text-align:center">
 
-  https://Celebmine.com
+  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kbsssss)](https://velog.io/@kbsssss)
   
 </div>
   

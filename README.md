@@ -32,7 +32,7 @@
 </p>
 
 <br>
-<h3 align="center">project in progress</h3>
+<h3 align="center">Project in progress</h3>
 
 <div align="center" style="text-align:center">
 

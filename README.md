@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-</p>
+</p> 
 
 <br>
 <h3 align="center">Project in progress</h3>

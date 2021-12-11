@@ -1,8 +1,8 @@
 
   
-<p align="center">🇰🇷 🇯🇵 🇺🇸</p>
 
-<h3 align="center">🛠 Platform & Languages 🛠</h3>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
+These are techs that I've used at least once.
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -15,10 +15,6 @@
   <br>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp    
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-</p>
-
-<h3 align="center">Tools</h3>
-<p align="center">
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp  
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp  
@@ -29,14 +25,7 @@
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p> 
 
-<br>
-<h3 align="center">Project in progress</h3>
 
-<div align="center" style="text-align:center">
-
-  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kbsssss&tag=celebmine.com)](https://velog.io/@kbsssss)
-  
-</div>
   
 <br>
 <h3 align="center"> 💻 About me 📸 </h3>
@@ -44,10 +33,6 @@
   <a href="https://sooolog.dev"><img src="https://img.shields.io/badge/sooolog.dev-222222?style=flat-square&logo=Vimeo&logoColor=white&link=https://sooolog.dev"/></a>&nbsp
   <a href="https://www.instagram.com/sooolog/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:merlinsbeard303@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=merlinsbeard303@gmail.com"/></a>
-</p>
-<br>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkbsssss&count_bg=%23C7C7C7&title_bg=%235262DD&icon=github.svg&icon_color=%235061B4&title=hits&edge_flat=true"/></a>
 </p>
 
 

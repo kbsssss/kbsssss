@@ -26,6 +26,8 @@
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p> 
 
 

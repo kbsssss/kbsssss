@@ -1,7 +1,10 @@
 
   
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center"> Tech Stack </h3>
+<p align="center">
+🛠
+</p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -29,8 +32,8 @@
 
   
 <br>
-<h3 align="center"> 💻 About me 📸 </h3>
-<p align="center">
+<h3 align="right"> 👜 Get in touch </h3>
+<p align="right">
   <a href="https://sooolog.dev"><img src="https://img.shields.io/badge/sooolog.dev-222222?style=flat-square&logo=Vimeo&logoColor=white&link=https://sooolog.dev"/></a>&nbsp
   <a href="https://www.instagram.com/sooolog/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp
   <a href="mailto:merlinsbeard303@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=merlinsbeard303@gmail.com"/></a>

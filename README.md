@@ -18,9 +18,9 @@
   <br>
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Beanstalk-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Nginx-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Global Accelerator-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Beanstalk-333664?style=flat-square&logo=amazon-aws&logoColor=green"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Nginx-333664?style=flat-square&logo=amazon-aws&logoColor=green"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Global Accelerator-333664?style=flat-square&logo=amazon-aws&logoColor=black"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=PageSpeed Insights&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PageSpeed Insight-4285F4?style=flat-square&logo=PageSpeed Insights&logoColor=white"/></a>&nbsp 

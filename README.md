@@ -19,8 +19,8 @@
   <img src="https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp   
   <br>
   <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=GitHub Actions&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=PageSpeed Insights&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Paged Insight-4285F4?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 

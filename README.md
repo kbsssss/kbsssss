@@ -1,9 +1,6 @@
 
-  <h2 align="center">Skilled in</h2>
+<h2 align="center">🛠 Skilled in 🛠</h2>
 
-<h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">
-</p>
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -30,9 +27,12 @@
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p> 
+#632CA6
 
-  <h2 align="center">Basic knowledge</h2>
-  
+<h2 align="center">📖 Basic knowledge 📖</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp    
   
 <br>
 <h3 align="right"> 👜 Get in touch </h3>

@@ -34,10 +34,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=blue"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Trello-2496ED?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=NestJS&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Docker-0052CC?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Trello-2496ED?style=flat-square&logo=Trello&logoColor=white"/></a>&nbsp 
 <br>
 <h3 align="right"> 👜 Get in touch </h3>
 <p align="right">

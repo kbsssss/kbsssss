@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Nginx-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Global Accelerator-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
   <br>
-  <img src="https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=PageSpeed Insights&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Jmeter-D22128?style=flat-square&logo=Apache JMeter&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/PageSpeed Insight-4285F4?style=flat-square&logo=PageSpeed Insights&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=Datadog&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=Sentry&logoColor=white"/></a>&nbsp 

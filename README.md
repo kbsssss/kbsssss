@@ -42,7 +42,7 @@
 <h3 align="right"> 👜 Get in touch </h3>
 <p align="right">
   <a href="https://sooolog.dev"><img src="https://img.shields.io/badge/sooolog.dev-222222?style=flat-square&logo=Vimeo&logoColor=white&link=https://sooolog.dev"/></a>&nbsp
-  <a href="mailto:merlinsbeard303@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=merlinsbeard303@gmail.com"/></a>
+  <a href="mailto:merlinsbeard303@gmail.com"><img src="https://img.shields.io/badge/Mail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=merlinsbeard303@gmail.com"/></a>
 </p>
 
 

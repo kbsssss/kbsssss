@@ -1,5 +1,5 @@
 
-  
+  <h2 align="center">Skilled in</h2>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
@@ -31,7 +31,8 @@
   <img src="https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p> 
 
-
+  <h2 align="center">Basic knowledge</h2>
+  
   
 <br>
 <h3 align="right"> 👜 Get in touch </h3>

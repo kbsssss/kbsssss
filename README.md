@@ -1,6 +1,5 @@
 
 <h2 align="center">🛠 Skilled in 🛠</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp   
@@ -29,7 +28,6 @@
 </p> 
 
 <h2 align="center">📖 Basic knowledge 📖</h2>
-
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp   
